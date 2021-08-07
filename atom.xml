@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-07T08:59:34.073Z</updated>
+  <updated>2021-08-07T13:00:48.697Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>电子书白嫖指南</title>
+    <link href="http://example.com/2021/08/07/dian-zi-shu-bai-piao-zhi-nan/"/>
+    <id>http://example.com/2021/08/07/dian-zi-shu-bai-piao-zhi-nan/</id>
+    <published>2021-08-07T12:57:28.000Z</published>
+    <updated>2021-08-07T13:00:48.697Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;【读书帖第一弹】电子书白嫖指南&lt;br&gt;首先是我的阅读量大部分是依靠电子阅读APP积累起来的，最直接的好处就是比如当你排队的时候、吃饭的时候、睡觉前、甚至是……上厕所，各种无聊的场合都可以非常方便的把手机掏出来像刷朋友圈、微博一样开始刷书，充分做到利用起各种碎片化的时间。比K</summary>
+        
+      
+    
+    
+    
+    <category term="读书" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6/"/>
+    
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="读书" scheme="http://example.com/tags/%E8%AF%BB%E4%B9%A6/"/>
+    
+  </entry>
   
   <entry>
     <title>搭建hexo博客</title>
@@ -50,14 +77,14 @@
     <link href="http://example.com/2021/08/07/yi-liao-lian-bang-xue-xi/"/>
     <id>http://example.com/2021/08/07/yi-liao-lian-bang-xue-xi/</id>
     <published>2021-08-07T08:33:27.000Z</published>
-    <updated>2021-08-07T12:39:53.204Z</updated>
+    <updated>2021-08-07T12:41:59.385Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h2 id=&quot;联邦学习的分类：&quot;&gt;&lt;a href=&quot;#联邦学习的分类：&quot; class=&quot;headerlink&quot; title=&quot;联邦学习的分类：&quot;&gt;&lt;/a&gt;联邦学习的分类：&lt;/h2&gt;&lt;p&gt;横向联邦学习&lt;br&gt;&lt;img</summary>
+    <summary type="html">&lt;h2 id=&quot;联邦学习的分类&quot;&gt;&lt;a href=&quot;#联邦学习的分类&quot; class=&quot;headerlink&quot; title=&quot;联邦学习的分类&quot;&gt;&lt;/a&gt;联邦学习的分类&lt;/h2&gt;&lt;p&gt;横向联邦学习&lt;br&gt;&lt;img</summary>
         
       
     
