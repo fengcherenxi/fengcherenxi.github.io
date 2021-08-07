@@ -6,11 +6,11 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-07T08:38:08.955Z</updated>
+  <updated>2021-08-07T08:43:45.207Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>杨锁择</name>
     
   </author>
   
@@ -21,22 +21,21 @@
     <link href="http://example.com/2021/08/07/da-jian-hexo-bo-ke/"/>
     <id>http://example.com/2021/08/07/da-jian-hexo-bo-ke/</id>
     <published>2021-08-07T08:33:52.000Z</published>
-    <updated>2021-08-07T08:38:08.955Z</updated>
+    <updated>2021-08-07T08:43:45.207Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 id=&quot;安装Nodejs&quot;&gt;&lt;a href=&quot;#安装Nodejs&quot; class=&quot;headerlink&quot; title=&quot;安装Nodejs&quot;&gt;&lt;/a&gt;安装Nodejs&lt;/h1&gt;&lt;p&gt;node -v #查看node版本&lt;br&gt;npm -v #查看npm版本&lt;/p&gt;
-&lt;h1</summary>
+    <summary type="html">&lt;h1 id=&quot;安装Nodejs&quot;&gt;&lt;a href=&quot;#安装Nodejs&quot; class=&quot;headerlink&quot; title=&quot;安装Nodejs&quot;&gt;&lt;/a&gt;安装Nodejs&lt;/h1&gt;&lt;p&gt;node -v #查看node版本&lt;br&gt;npm -v</summary>
         
       
     
     
     
     
-    <category term="’html‘,’blog‘" scheme="http://example.com/tags/%E2%80%99html%E2%80%98-%E2%80%99blog%E2%80%98/"/>
+    <category term="html blog" scheme="http://example.com/tags/html-blog/"/>
     
   </entry>
   
