@@ -59,23 +59,29 @@
   </entry>
   
   <entry>
-    <title>我的第一篇文章</title>
+    <title>Hello,word!</title>
     <link href="http://example.com/2021/08/06/wo-de-di-yi-pian-wen-zhang/"/>
     <id>http://example.com/2021/08/06/wo-de-di-yi-pian-wen-zhang/</id>
     <published>2021-08-06T14:53:28.000Z</published>
-    <updated>2021-08-06T14:54:50.817Z</updated>
+    <updated>2021-08-07T09:21:19.996Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+    <summary type="html">&lt;p&gt;Hello,word!&lt;br&gt;这是我在博客上的第一篇文章。&lt;br&gt;我是一个科研工作者，目前主要致力于&lt;strong&gt;医学图像领域&lt;/strong&gt;，当然文字和图像都是人类对于世界的不同编码方式，人工智能在处理图像问题和文字问题时具有很强的共性，比如注意力机制在图像和nlp都</summary>
         
       
     
     
     
+    <category term="随笔" scheme="http://example.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
