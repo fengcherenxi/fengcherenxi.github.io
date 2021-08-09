@@ -681,7 +681,7 @@
                 type: 'pie',
                 radius: '50%',
                 color: ['#6772e5', '#ff9e0f', '#fa755a', '#3ecf8e', '#82d3f4', '#ab47bc', '#525f7f', '#f51c47', '#26A69A'],
-                data: [{"name":"python","value":1},{"name":"读书","value":2},{"name":"电影","value":1},{"name":"医学联邦学习","value":1},{"name":"html","value":1},{"name":"随笔","value":1},{"name":"读书笔记","value":1}],
+                data: [{"name":"读书","value":2},{"name":"python","value":1},{"name":"电影","value":1},{"name":"医学联邦学习","value":1},{"name":"随笔","value":1},{"name":"html","value":1},{"name":"读书笔记","value":1}],
                 itemStyle: {
                     emphasis: {
                         shadowBlur: 10,
@@ -888,6 +888,18 @@
         <div class="tag-chips center-align">
             
             
+            <a href="/tags/%E8%AF%BB%E4%B9%A6/">
+                <span class="chip center-align waves-effect waves-light chip-default">读书</span>
+            </a>
+            
+            
+            
+            <a href="/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/">
+                <span class="chip center-align waves-effect waves-light chip-default">读书笔记</span>
+            </a>
+            
+            
+            
             
             
             <a href="/tags/%E7%BC%96%E7%A8%8B/">
@@ -898,18 +910,6 @@
             
             <a href="/tags/jupyter/">
                 <span class="chip center-align waves-effect waves-light chip-default">jupyter</span>
-            </a>
-            
-            
-            
-            <a href="/tags/%E8%AF%BB%E4%B9%A6/">
-                <span class="chip center-align waves-effect waves-light chip-default">读书</span>
-            </a>
-            
-            
-            
-            <a href="/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/">
-                <span class="chip center-align waves-effect waves-light chip-default">读书笔记</span>
             </a>
             
             
@@ -946,6 +946,18 @@
             
             
             
+            <a href="/tags/%E7%94%9F%E6%B4%BB/">
+                <span class="chip center-align waves-effect waves-light chip-default">生活</span>
+            </a>
+            
+            
+            
+            <a href="/tags/%E9%9A%8F%E7%AC%94/">
+                <span class="chip center-align waves-effect waves-light chip-default">随笔</span>
+            </a>
+            
+            
+            
             <a href="/tags/blog/">
                 <span class="chip center-align waves-effect waves-light chip-default">blog</span>
             </a>
@@ -960,18 +972,6 @@
             
             <a href="/tags/github/">
                 <span class="chip center-align waves-effect waves-light chip-default">github</span>
-            </a>
-            
-            
-            
-            <a href="/tags/%E7%94%9F%E6%B4%BB/">
-                <span class="chip center-align waves-effect waves-light chip-default">生活</span>
-            </a>
-            
-            
-            
-            <a href="/tags/%E9%9A%8F%E7%AC%94/">
-                <span class="chip center-align waves-effect waves-light chip-default">随笔</span>
             </a>
             
             
@@ -1087,8 +1087,6 @@
 <style>
     .aplayer .aplayer-lrc p {
         
-        display: none;
-        
         font-size: 12px;
         font-weight: 700;
         line-height: 16px !important;
@@ -1096,10 +1094,8 @@
 
     .aplayer .aplayer-lrc p.aplayer-lrc-current {
         
-        display: none;
-        
         font-size: 15px;
-        color: #42b983;
+        color: blue;
     }
 
     
@@ -1119,10 +1115,10 @@
         <meting-js class="col l8 offset-l2 m10 offset-m1 s12"
                    server="netease"
                    type="playlist"
-                   id="2650434635"
+                   id="6908620380"
                    fixed='true'
                    autoplay='true'
-                   theme='#42b983'
+                   theme='blue'
                    loop='all'
                    order='random'
                    preload='auto'
