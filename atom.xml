@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-08-19T13:51:17.378Z</updated>
+  <updated>2022-01-06T03:31:35.070Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>4.《曹寅与康熙》——读书笔记</title>
+    <link href="http://example.com/2022/01/05/4.cao-yin-yu-kang-xi-du-shu-bi-ji/"/>
+    <id>http://example.com/2022/01/05/4.cao-yin-yu-kang-xi-du-shu-bi-ji/</id>
+    <published>2022-01-05T12:00:00.000Z</published>
+    <updated>2022-01-06T03:31:35.070Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="读书笔记" scheme="http://example.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>3.《刑罚的历史》——读书笔记</title>
