@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-01-06T03:31:35.000Z</updated>
+  <updated>2022-02-23T06:02:27.854Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,87 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>7.《老子通释》——读书笔记</title>
+    <link href="http://example.com/2022/02/05/7.lao-zi-tong-shi-du-shu-bi-ji/"/>
+    <id>http://example.com/2022/02/05/7.lao-zi-tong-shi-du-shu-bi-ji/</id>
+    <published>2022-02-05T12:00:00.000Z</published>
+    <updated>2022-02-23T06:02:27.854Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="读书笔记" scheme="http://example.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>6.《刀与星辰》——读书笔记</title>
+    <link href="http://example.com/2022/01/25/6.dao-yu-xing-chen-du-shu-bi-ji/"/>
+    <id>http://example.com/2022/01/25/6.dao-yu-xing-chen-du-shu-bi-ji/</id>
+    <published>2022-01-25T12:00:00.000Z</published>
+    <updated>2022-02-23T05:44:14.739Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="读书笔记" scheme="http://example.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>5.《圆圈的正义》——读书笔记</title>
+    <link href="http://example.com/2022/01/15/5.yuan-quan-de-zheng-yi-du-shu-bi-ji/"/>
+    <id>http://example.com/2022/01/15/5.yuan-quan-de-zheng-yi-du-shu-bi-ji/</id>
+    <published>2022-01-15T12:00:00.000Z</published>
+    <updated>2022-02-23T05:33:09.187Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="读书笔记" scheme="http://example.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>4.《曹寅与康熙》——读书笔记</title>
@@ -75,7 +156,7 @@
     <link href="http://example.com/2021/08/19/2.wo-zai-gu-gong-xiu-wen-wu-du-shu-bi-ji/"/>
     <id>http://example.com/2021/08/19/2.wo-zai-gu-gong-xiu-wen-wu-du-shu-bi-ji/</id>
     <published>2021-08-19T11:00:00.000Z</published>
-    <updated>2021-08-19T13:51:46.000Z</updated>
+    <updated>2022-02-23T04:22:13.090Z</updated>
     
     
       
@@ -102,7 +183,7 @@
     <link href="http://example.com/2021/08/19/1.wei-shi-me-jing-ying-du-shi-shi-jian-kong-du-shu-bi-ji/"/>
     <id>http://example.com/2021/08/19/1.wei-shi-me-jing-ying-du-shi-shi-jian-kong-du-shu-bi-ji/</id>
     <published>2021-08-19T10:00:00.000Z</published>
-    <updated>2021-08-19T14:10:17.000Z</updated>
+    <updated>2022-02-23T04:22:20.888Z</updated>
     
     
       
