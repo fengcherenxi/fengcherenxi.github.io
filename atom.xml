@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>杨锁择</title>
   
-  <subtitle>记录日常生活</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <subtitle>---</subtitle>
+  <link href="https://github.com/fengcherenxi/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-02-23T06:02:27.854Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://github.com/fengcherenxi/"/>
+  <updated>2022-05-13T09:56:28.836Z</updated>
+  <id>https://github.com/fengcherenxi/</id>
   
   <author>
     <name>杨锁择</name>
@@ -17,11 +17,11 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>7.《老子通释》——读书笔记</title>
-    <link href="http://example.com/2022/02/05/7.lao-zi-tong-shi-du-shu-bi-ji/"/>
-    <id>http://example.com/2022/02/05/7.lao-zi-tong-shi-du-shu-bi-ji/</id>
-    <published>2022-02-05T12:00:00.000Z</published>
-    <updated>2022-02-23T06:02:27.854Z</updated>
+    <title>9.《遥远的救世主》——读书笔记</title>
+    <link href="https://github.com/fengcherenxi/2022/02/25/9.yao-yuan-de-jiu-shi-zhu-du-shu-bi-ji/"/>
+    <id>https://github.com/fengcherenxi/2022/02/25/9.yao-yuan-de-jiu-shi-zhu-du-shu-bi-ji/</id>
+    <published>2022-02-25T12:00:00.000Z</published>
+    <updated>2022-05-13T09:56:28.836Z</updated>
     
     
       
@@ -34,19 +34,73 @@
     
     
     
-    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://github.com/fengcherenxi/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://github.com/fengcherenxi/tags/%E9%9A%8F%E7%AC%94/"/>
     
-    <category term="读书笔记" scheme="http://example.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://github.com/fengcherenxi/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>8.《追寻现代中国》——读书笔记</title>
+    <link href="https://github.com/fengcherenxi/2022/02/15/8.zhui-xun-xian-dai-zhong-guo-du-shu-bi-ji/"/>
+    <id>https://github.com/fengcherenxi/2022/02/15/8.zhui-xun-xian-dai-zhong-guo-du-shu-bi-ji/</id>
+    <published>2022-02-15T12:00:00.000Z</published>
+    <updated>2022-05-13T09:37:24.859Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="读书笔记" scheme="https://github.com/fengcherenxi/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="随笔" scheme="https://github.com/fengcherenxi/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="读书笔记" scheme="https://github.com/fengcherenxi/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>7.《老子通释》——读书笔记</title>
+    <link href="https://github.com/fengcherenxi/2022/02/05/7.lao-zi-tong-shi-du-shu-bi-ji/"/>
+    <id>https://github.com/fengcherenxi/2022/02/05/7.lao-zi-tong-shi-du-shu-bi-ji/</id>
+    <published>2022-02-05T12:00:00.000Z</published>
+    <updated>2022-05-13T09:33:55.570Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="读书笔记" scheme="https://github.com/fengcherenxi/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="随笔" scheme="https://github.com/fengcherenxi/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="读书笔记" scheme="https://github.com/fengcherenxi/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>6.《刀与星辰》——读书笔记</title>
-    <link href="http://example.com/2022/01/25/6.dao-yu-xing-chen-du-shu-bi-ji/"/>
-    <id>http://example.com/2022/01/25/6.dao-yu-xing-chen-du-shu-bi-ji/</id>
+    <link href="https://github.com/fengcherenxi/2022/01/25/6.dao-yu-xing-chen-du-shu-bi-ji/"/>
+    <id>https://github.com/fengcherenxi/2022/01/25/6.dao-yu-xing-chen-du-shu-bi-ji/</id>
     <published>2022-01-25T12:00:00.000Z</published>
     <updated>2022-02-23T05:44:14.739Z</updated>
     
@@ -61,19 +115,19 @@
     
     
     
-    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://github.com/fengcherenxi/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://github.com/fengcherenxi/tags/%E9%9A%8F%E7%AC%94/"/>
     
-    <category term="读书笔记" scheme="http://example.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://github.com/fengcherenxi/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>5.《圆圈的正义》——读书笔记</title>
-    <link href="http://example.com/2022/01/15/5.yuan-quan-de-zheng-yi-du-shu-bi-ji/"/>
-    <id>http://example.com/2022/01/15/5.yuan-quan-de-zheng-yi-du-shu-bi-ji/</id>
+    <link href="https://github.com/fengcherenxi/2022/01/15/5.yuan-quan-de-zheng-yi-du-shu-bi-ji/"/>
+    <id>https://github.com/fengcherenxi/2022/01/15/5.yuan-quan-de-zheng-yi-du-shu-bi-ji/</id>
     <published>2022-01-15T12:00:00.000Z</published>
     <updated>2022-02-23T05:33:09.187Z</updated>
     
@@ -88,19 +142,19 @@
     
     
     
-    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://github.com/fengcherenxi/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://github.com/fengcherenxi/tags/%E9%9A%8F%E7%AC%94/"/>
     
-    <category term="读书笔记" scheme="http://example.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://github.com/fengcherenxi/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>4.《曹寅与康熙》——读书笔记</title>
-    <link href="http://example.com/2022/01/05/4.cao-yin-yu-kang-xi-du-shu-bi-ji/"/>
-    <id>http://example.com/2022/01/05/4.cao-yin-yu-kang-xi-du-shu-bi-ji/</id>
+    <link href="https://github.com/fengcherenxi/2022/01/05/4.cao-yin-yu-kang-xi-du-shu-bi-ji/"/>
+    <id>https://github.com/fengcherenxi/2022/01/05/4.cao-yin-yu-kang-xi-du-shu-bi-ji/</id>
     <published>2022-01-05T12:00:00.000Z</published>
     <updated>2022-01-06T03:31:35.000Z</updated>
     
@@ -115,19 +169,19 @@
     
     
     
-    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://github.com/fengcherenxi/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://github.com/fengcherenxi/tags/%E9%9A%8F%E7%AC%94/"/>
     
-    <category term="读书笔记" scheme="http://example.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://github.com/fengcherenxi/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>3.《刑罚的历史》——读书笔记</title>
-    <link href="http://example.com/2021/10/19/3.xing-fa-de-li-shi-du-shu-bi-ji/"/>
-    <id>http://example.com/2021/10/19/3.xing-fa-de-li-shi-du-shu-bi-ji/</id>
+    <link href="https://github.com/fengcherenxi/2021/10/19/3.xing-fa-de-li-shi-du-shu-bi-ji/"/>
+    <id>https://github.com/fengcherenxi/2021/10/19/3.xing-fa-de-li-shi-du-shu-bi-ji/</id>
     <published>2021-10-19T12:00:00.000Z</published>
     <updated>2022-02-23T06:51:37.795Z</updated>
     
@@ -142,19 +196,19 @@
     
     
     
-    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://github.com/fengcherenxi/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://github.com/fengcherenxi/tags/%E9%9A%8F%E7%AC%94/"/>
     
-    <category term="读书笔记" scheme="http://example.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://github.com/fengcherenxi/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>2.《我在故宫修文物》读书笔记</title>
-    <link href="http://example.com/2021/09/19/2.wo-zai-gu-gong-xiu-wen-wu-du-shu-bi-ji/"/>
-    <id>http://example.com/2021/09/19/2.wo-zai-gu-gong-xiu-wen-wu-du-shu-bi-ji/</id>
+    <link href="https://github.com/fengcherenxi/2021/09/19/2.wo-zai-gu-gong-xiu-wen-wu-du-shu-bi-ji/"/>
+    <id>https://github.com/fengcherenxi/2021/09/19/2.wo-zai-gu-gong-xiu-wen-wu-du-shu-bi-ji/</id>
     <published>2021-09-19T12:00:00.000Z</published>
     <updated>2022-02-23T06:51:37.795Z</updated>
     
@@ -169,19 +223,19 @@
     
     
     
-    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://github.com/fengcherenxi/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://github.com/fengcherenxi/tags/%E9%9A%8F%E7%AC%94/"/>
     
-    <category term="读书笔记" scheme="http://example.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://github.com/fengcherenxi/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>1.《为什么精英都是时间控》读书笔记</title>
-    <link href="http://example.com/2021/08/19/1.wei-shi-me-jing-ying-du-shi-shi-jian-kong-du-shu-bi-ji/"/>
-    <id>http://example.com/2021/08/19/1.wei-shi-me-jing-ying-du-shi-shi-jian-kong-du-shu-bi-ji/</id>
+    <link href="https://github.com/fengcherenxi/2021/08/19/1.wei-shi-me-jing-ying-du-shi-shi-jian-kong-du-shu-bi-ji/"/>
+    <id>https://github.com/fengcherenxi/2021/08/19/1.wei-shi-me-jing-ying-du-shi-shi-jian-kong-du-shu-bi-ji/</id>
     <published>2021-08-19T12:00:00.000Z</published>
     <updated>2022-02-23T06:51:37.794Z</updated>
     
@@ -196,19 +250,19 @@
     
     
     
-    <category term="读书笔记" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://github.com/fengcherenxi/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://github.com/fengcherenxi/tags/%E9%9A%8F%E7%AC%94/"/>
     
-    <category term="读书笔记" scheme="http://example.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://github.com/fengcherenxi/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
   <entry>
     <title>【2021/07】读书札记总结</title>
-    <link href="http://example.com/2021/08/09/2021-nian-8-yue-fen-du-shu-bi-ji/"/>
-    <id>http://example.com/2021/08/09/2021-nian-8-yue-fen-du-shu-bi-ji/</id>
+    <link href="https://github.com/fengcherenxi/2021/08/09/2021-nian-8-yue-fen-du-shu-bi-ji/"/>
+    <id>https://github.com/fengcherenxi/2021/08/09/2021-nian-8-yue-fen-du-shu-bi-ji/</id>
     <published>2021-08-09T11:31:17.000Z</published>
     <updated>2021-08-09T12:03:38.000Z</updated>
     
@@ -223,19 +277,19 @@
     
     
     
-    <category term="读书" scheme="http://example.com/categories/%E8%AF%BB%E4%B9%A6/"/>
+    <category term="读书" scheme="https://github.com/fengcherenxi/categories/%E8%AF%BB%E4%B9%A6/"/>
     
     
-    <category term="读书笔记" scheme="http://example.com/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    <category term="读书笔记" scheme="https://github.com/fengcherenxi/tags/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
     
-    <category term="读书" scheme="http://example.com/tags/%E8%AF%BB%E4%B9%A6/"/>
+    <category term="读书" scheme="https://github.com/fengcherenxi/tags/%E8%AF%BB%E4%B9%A6/"/>
     
   </entry>
   
   <entry>
     <title>jupyter实用指南&amp;实用插件(一)</title>
-    <link href="http://example.com/2021/08/09/jupyter-shi-yong-zhi-nan-shi-yong-cha-jian/"/>
-    <id>http://example.com/2021/08/09/jupyter-shi-yong-zhi-nan-shi-yong-cha-jian/</id>
+    <link href="https://github.com/fengcherenxi/2021/08/09/jupyter-shi-yong-zhi-nan-shi-yong-cha-jian/"/>
+    <id>https://github.com/fengcherenxi/2021/08/09/jupyter-shi-yong-zhi-nan-shi-yong-cha-jian/</id>
     <published>2021-08-09T02:52:24.000Z</published>
     <updated>2021-08-09T12:12:03.000Z</updated>
     
@@ -250,21 +304,21 @@
     
     
     
-    <category term="python" scheme="http://example.com/categories/python/"/>
+    <category term="python" scheme="https://github.com/fengcherenxi/categories/python/"/>
     
     
-    <category term="python" scheme="http://example.com/tags/python/"/>
+    <category term="python" scheme="https://github.com/fengcherenxi/tags/python/"/>
     
-    <category term="编程" scheme="http://example.com/tags/%E7%BC%96%E7%A8%8B/"/>
+    <category term="编程" scheme="https://github.com/fengcherenxi/tags/%E7%BC%96%E7%A8%8B/"/>
     
-    <category term="jupyter" scheme="http://example.com/tags/jupyter/"/>
+    <category term="jupyter" scheme="https://github.com/fengcherenxi/tags/jupyter/"/>
     
   </entry>
   
   <entry>
     <title>乡愁是一枚小小的邮票——童年往事</title>
-    <link href="http://example.com/2021/08/08/xiang-chou-shi-yi-mei-xiao-xiao-de-you-piao-tong-nian-wang-shi/"/>
-    <id>http://example.com/2021/08/08/xiang-chou-shi-yi-mei-xiao-xiao-de-you-piao-tong-nian-wang-shi/</id>
+    <link href="https://github.com/fengcherenxi/2021/08/08/xiang-chou-shi-yi-mei-xiao-xiao-de-you-piao-tong-nian-wang-shi/"/>
+    <id>https://github.com/fengcherenxi/2021/08/08/xiang-chou-shi-yi-mei-xiao-xiao-de-you-piao-tong-nian-wang-shi/</id>
     <published>2021-08-08T13:04:53.000Z</published>
     <updated>2021-08-08T13:12:29.000Z</updated>
     
@@ -279,19 +333,19 @@
     
     
     
-    <category term="电影" scheme="http://example.com/categories/%E7%94%B5%E5%BD%B1/"/>
+    <category term="电影" scheme="https://github.com/fengcherenxi/categories/%E7%94%B5%E5%BD%B1/"/>
     
     
-    <category term="电影" scheme="http://example.com/tags/%E7%94%B5%E5%BD%B1/"/>
+    <category term="电影" scheme="https://github.com/fengcherenxi/tags/%E7%94%B5%E5%BD%B1/"/>
     
-    <category term="影评" scheme="http://example.com/tags/%E5%BD%B1%E8%AF%84/"/>
+    <category term="影评" scheme="https://github.com/fengcherenxi/tags/%E5%BD%B1%E8%AF%84/"/>
     
   </entry>
   
   <entry>
     <title>搭建hexo博客</title>
-    <link href="http://example.com/2021/08/07/da-jian-hexo-bo-ke/"/>
-    <id>http://example.com/2021/08/07/da-jian-hexo-bo-ke/</id>
+    <link href="https://github.com/fengcherenxi/2021/08/07/da-jian-hexo-bo-ke/"/>
+    <id>https://github.com/fengcherenxi/2021/08/07/da-jian-hexo-bo-ke/</id>
     <published>2021-08-07T08:33:52.000Z</published>
     <updated>2021-08-07T08:59:34.000Z</updated>
     
@@ -306,21 +360,21 @@
     
     
     
-    <category term="html" scheme="http://example.com/categories/html/"/>
+    <category term="html" scheme="https://github.com/fengcherenxi/categories/html/"/>
     
     
-    <category term="blog" scheme="http://example.com/tags/blog/"/>
+    <category term="blog" scheme="https://github.com/fengcherenxi/tags/blog/"/>
     
-    <category term="html" scheme="http://example.com/tags/html/"/>
+    <category term="html" scheme="https://github.com/fengcherenxi/tags/html/"/>
     
-    <category term="github" scheme="http://example.com/tags/github/"/>
+    <category term="github" scheme="https://github.com/fengcherenxi/tags/github/"/>
     
   </entry>
   
   <entry>
     <title>医疗联邦学习</title>
-    <link href="http://example.com/2021/08/07/yi-liao-lian-bang-xue-xi/"/>
-    <id>http://example.com/2021/08/07/yi-liao-lian-bang-xue-xi/</id>
+    <link href="https://github.com/fengcherenxi/2021/08/07/yi-liao-lian-bang-xue-xi/"/>
+    <id>https://github.com/fengcherenxi/2021/08/07/yi-liao-lian-bang-xue-xi/</id>
     <published>2021-08-07T08:33:27.000Z</published>
     <updated>2021-08-07T12:41:59.000Z</updated>
     
@@ -335,23 +389,23 @@
     
     
     
-    <category term="医学联邦学习" scheme="http://example.com/categories/%E5%8C%BB%E5%AD%A6%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0/"/>
+    <category term="医学联邦学习" scheme="https://github.com/fengcherenxi/categories/%E5%8C%BB%E5%AD%A6%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="科研" scheme="http://example.com/tags/%E7%A7%91%E7%A0%94/"/>
+    <category term="科研" scheme="https://github.com/fengcherenxi/tags/%E7%A7%91%E7%A0%94/"/>
     
-    <category term="医疗图像" scheme="http://example.com/tags/%E5%8C%BB%E7%96%97%E5%9B%BE%E5%83%8F/"/>
+    <category term="医疗图像" scheme="https://github.com/fengcherenxi/tags/%E5%8C%BB%E7%96%97%E5%9B%BE%E5%83%8F/"/>
     
-    <category term="联邦学习" scheme="http://example.com/tags/%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0/"/>
+    <category term="联邦学习" scheme="https://github.com/fengcherenxi/tags/%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="人工智能" scheme="http://example.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <category term="人工智能" scheme="https://github.com/fengcherenxi/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
   </entry>
   
   <entry>
     <title>Hello,word!</title>
-    <link href="http://example.com/2021/08/06/wo-de-di-yi-pian-wen-zhang/"/>
-    <id>http://example.com/2021/08/06/wo-de-di-yi-pian-wen-zhang/</id>
+    <link href="https://github.com/fengcherenxi/2021/08/06/wo-de-di-yi-pian-wen-zhang/"/>
+    <id>https://github.com/fengcherenxi/2021/08/06/wo-de-di-yi-pian-wen-zhang/</id>
     <published>2021-08-06T14:53:28.000Z</published>
     <updated>2021-08-08T04:45:10.000Z</updated>
     
@@ -366,12 +420,12 @@
     
     
     
-    <category term="随笔" scheme="http://example.com/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://github.com/fengcherenxi/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://github.com/fengcherenxi/tags/%E9%9A%8F%E7%AC%94/"/>
     
-    <category term="生活" scheme="http://example.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://github.com/fengcherenxi/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
