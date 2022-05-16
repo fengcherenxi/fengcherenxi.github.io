@@ -1,0 +1,50 @@
+/* 使用CSS variable定义CSS的特效 （模糊 加边框 变换颜色） 
+有点像sass的感觉*/
+:root{
+    --base: #ffc600;
+    --spacing: 10px;
+    --border: 10%;
+    --blur: 0px;
+    --grayscale: 0%;
+    }
+
+img {
+    padding: var(--spacing);/* 加边框 */
+    border-radius: var(--border);/* 加边框 */
+    background: var(--base);/* 加图片 */
+    filter: blur(var(--blur)) grayscale(var(--grayscale));/* 滤镜功能 */
+    /* 因为选取的图片忒大了 缩了一下尺寸~ */
+    width: 66%;
+}
+
+/* .h1  放在这里纪念一下 把hl当成h1 ！！！！！！！！！！！！！！！！！！！！！！！！！
+{
+color: var(--base);
+} */
+.hl {
+    color: var(--base);
+}
+
+/*
+misc styles, nothing to do with CSS variables
+*/
+
+body {
+    text-align: center;
+    background: #0c3258;
+    color: rgb(255, 255, 255);
+    font-family: 'helvetica neue', sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+.controls {
+    margin-bottom: 30px;   
+}
+
+div input {
+    width:100px;
+}
+#picture {
+    width:200px;
+}
